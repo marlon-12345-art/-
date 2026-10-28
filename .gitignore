@@ -1,0 +1,6 @@
+# 실제 업무 데이터·계정 정보는 저장소에 올리지 않기
+data/
+*.json.bak
+db_export*.json
+.DS_Store
+Thumbs.db
